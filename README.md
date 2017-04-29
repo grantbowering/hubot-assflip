@@ -1,6 +1,6 @@
 # hubot-assflip
 
-Hubot script. Replies to '<word>-ass <word>' with the hyphen moved to the other side ('Eww, <word> ASS-<noun>?!')
+Hubot script. Replies to '[x]-ass [y]' with the hyphen moved to the other side ('Eww, [x] ASS-[y]?!')
 
 ## Installation
 

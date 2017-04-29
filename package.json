@@ -1,7 +1,7 @@
 {
     "name": "hubot-assflip",
-    "description": "Hubot script. Replies to '<word>-ass <word>' with the hyphen moved to the other side ('Eww, <word> ASS-<noun>?!')",
-    "version": "0.0.1",
+    "description": "Hubot script. Replies to '[x]-ass [y]' with the hyphen moved to the other side ('[x] ASS-[y]?!')",
+    "version": "0.0.3",
     "author": "grant.bowering@gmail.com",
     "license": "MIT",
 
